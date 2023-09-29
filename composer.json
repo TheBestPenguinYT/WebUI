@@ -3,6 +3,7 @@
     "description": "License manager for Tsunami/wemx.",
     "type": "project",
     "license": "none",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "TheBestPenguin, expxx"

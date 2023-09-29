@@ -8,10 +8,9 @@
             "name": "TheBestPenguin, expxx"
         }
     ],
-"minimum-stability": "dev",
+"minimum-stability": "ready",
     "require": {
         "php": ">=5.3.0"
-        "tsunami/webui":"dev-master@dev"
     },
     "autoload": {
         "psr-0": {

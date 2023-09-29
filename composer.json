@@ -1,5 +1,5 @@
 {
-    "name": "webui",
+    "name": "tsunami/webui",
     "description": "License manager for Tsunami/wemx.",
     "type": "project",
     "license": "none",

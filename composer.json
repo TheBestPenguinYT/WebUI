@@ -3,13 +3,12 @@
     "description": "License manager for Tsunami/wemx.",
     "type": "library",
     "license": "none",
-    "prefer-stable": true,
     "authors": [
         {
             "name": "TheBestPenguin, expxx"
         }
     ],
-"minimum-stability": "stable",
+"minimum-stability": "dev",
     "require": {
         "php": ">=5.3.0"
     },
